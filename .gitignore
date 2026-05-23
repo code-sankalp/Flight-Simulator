@@ -1,0 +1,26 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+.venv311/
+
+# IDE and notebook checkpoints
+.idea/
+.ipynb_checkpoints/
+
+# Local secrets and environment overrides
+.env
+.env.*
+*.key
+*.pem
+*.json
+
+# Generated data and model artifacts
+data/
+models/
+model_artifacts/
+
+# Local logs and temporary output
+*.log
+tmp/
+temp/
