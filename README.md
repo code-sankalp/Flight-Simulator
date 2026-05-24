@@ -250,7 +250,7 @@ The included `.gitignore` already excludes these paths. If any real password, se
 
 ## License
 
-Add a license before publishing this repository publicly if you want others to reuse or modify it.
+MIT
 
 ---
 
